@@ -1,0 +1,91 @@
+.menu a {
+    float: right;
+    color:black;
+    text-align: center;
+    padding: 18px 22px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  header { padding-bottom: 40px;
+
+  }
+  .Hello {
+      font-size: 40px;
+      color: blueviolet;
+    
+  }
+ .name {
+     font-size: 40px;
+     color: coral;
+ }
+ .link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white; 
+    font-weight: bold;}
+
+ .half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%; 
+ }
+.half-width img{
+        width: 100%;
+    }
+
+.box {
+    box-shadow: 10px 10px 40px green;
+    height: 100%;
+    padding-bottom: 50px;
+}
+
+section{
+    height: 300px;
+    padding-bottom: 50px;
+    
+}
+.lw {
+  text-align: center;
+  font-size: 40px;
+  width: 100%;
+  border: none;
+  padding: 10px;
+}
+.gallery {
+    margin: 5px;
+    
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    float: left;
+    width: 32%;
+  }
+.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+.desc {
+    padding: 15px;
+    text-align: left;
+  }
+
+#id {   
+    padding: 100px;
+   
+
+}
+.fbox {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 40px ;
+   
+}
+  
+    
